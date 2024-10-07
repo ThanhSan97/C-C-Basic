@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Frehser_FSOFT\\Day1\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FFA39A-5CA6-45D7-AFE1-8350280BC902}|Exercise_04\\Exercise_04.vcxproj|D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7FFA39A-5CA6-45D7-AFE1-8350280BC902}|Exercise_04\\Exercise_04.vcxproj|solutionrelative:Exercise_04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B7B91C-DD6C-460B-9F87-A7F95F5A1850}|Exercise_03\\Exercise_03.vcxproj|D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B7B91C-DD6C-460B-9F87-A7F95F5A1850}|Exercise_03\\Exercise_03.vcxproj|solutionrelative:Exercise_03\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B7B91C-DD6C-460B-9F87-A7F95F5A1850}|Exercise_03\\Exercise_03.vcxproj|D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39B7B91C-DD6C-460B-9F87-A7F95F5A1850}|Exercise_03\\Exercise_03.vcxproj|solutionrelative:Exercise_03\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_04\\Source.cpp",
+              "RelativeDocumentMoniker": "Exercise_04\\Source.cpp",
+              "ToolTip": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_04\\Source.cpp",
+              "RelativeToolTip": "Exercise_04\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T07:46:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Text.txt",
+              "RelativeDocumentMoniker": "Exercise_03\\Text.txt",
+              "ToolTip": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Text.txt",
+              "RelativeToolTip": "Exercise_03\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-18T07:39:51.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Source.cpp",
+              "RelativeDocumentMoniker": "Exercise_03\\Source.cpp",
+              "ToolTip": "D:\\Frehser_FSOFT\\Day1\\Day1\\Exercise_03\\Source.cpp",
+              "RelativeToolTip": "Exercise_03\\Source.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T07:30:00.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
